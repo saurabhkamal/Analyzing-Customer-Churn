@@ -59,10 +59,27 @@ The hypothesis is that people who are not on an unlimited data plan are more lik
 ![image](https://github.com/user-attachments/assets/85520789-2a3e-4e8d-92bb-795bf9f06aad)
 
 -	Customers who consume the lowest amount of data are actually the most likely to churn at almost 35%
--	Customers who consume between 5 and 10 GB are second most likely to churn around 36%, followed by consumers who consume between 10 or more GB.
+-	Customers who consume between 5 and 10 GB are second most likely to churn around 34%, followed by consumers who consume between 10 or more GB.
 
+**8.	International Calls:**
 
+Analyzing relationship between customers’ international activity and churn. Company is curious about behaviour of customers who call internationally, and if paying for an international plan influences their loyalty. 
 
+It seems that state CA customers has particularly high percentage of churners. This is an important information that can help company to make a good decision while allocating their budget for the new promotion. 
 
+![image](https://github.com/user-attachments/assets/f13de82e-784e-44c8-8dcd-3aecd1f2652b)
 
+**9.	How to retain senior citizens?**
 
+As discovered that the churn rate for customers who are considered senior citizens is almost 40%. So, an important question arises how to retain senior citizens? 
+One could argue to roll out personalized plans according to their needs; however, doing so without doing deeper analysis on the churn categories and understanding the reasons for senior citizens’ churn might fail the implementation of personalized plans.
+
+**10.	Two important topics related to customers: the contract type and how many months a person is a customer.** 
+
+Month-to-Month contracts have the biggest churn, but the account length 37-48 group has the biggest gap between one year and two-year contracts.
+
+![image](https://github.com/user-attachments/assets/d032a8a4-4cd4-4522-9421-2b7f473164b6)
+
+Customers between 3 and 4 year mark are much more likely to churn on a One Year contract compared to a Two Year. Sales and marketing can use this information to provide offers that would get customers to sign up to 2 years deals.
+
+![image](https://github.com/user-attachments/assets/4b78b894-333d-4366-a984-41a28a2e4491)
