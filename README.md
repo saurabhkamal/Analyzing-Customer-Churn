@@ -52,6 +52,16 @@ Customers aged between 79-88 only make up a small percentage of our customer bas
 
 ![image](https://github.com/user-attachments/assets/dbde2874-1c45-44fa-8e20-4f7c615b4991)
 
+**7.	Unlimited Plan:**
+
+The hypothesis is that people who are not on an unlimited data plan are more likely to churn. Investigating how the unlimited data plan influences churn rate.
+
+![image](https://github.com/user-attachments/assets/85520789-2a3e-4e8d-92bb-795bf9f06aad)
+
+-	Customers who consume the lowest amount of data are actually the most likely to churn at almost 35%
+-	Customers who consume between 5 and 10 GB are second most likely to churn around 36%, followed by consumers who consume between 10 or more GB.
+
+
 
 
 
