@@ -31,5 +31,13 @@ Investigating the different reasons why customers churned. Creating a column cha
 
 ![image](https://github.com/user-attachments/assets/3ab408d5-3ca5-490a-900a-aa88796bc13b)
 
+**4.	Digging deeper into churn categories:**
+
+Identifying which churn category is accounting for the highest proportion of churn and understanding which priority we should tackle first based on the churn reasons. 
+
+![image](https://github.com/user-attachments/assets/737c88a3-874c-460d-a1d3-13294597ead6)
+
+
+
 
 
