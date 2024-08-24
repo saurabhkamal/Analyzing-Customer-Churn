@@ -82,4 +82,6 @@ Month-to-Month contracts have the biggest churn, but the account length 37-48 gr
 
 Customers between 3 and 4 year mark are much more likely to churn on a One Year contract compared to a Two Year. Sales and marketing can use this information to provide offers that would get customers to sign up to 2 years deals.
 
+## Overview:
+
 ![image](https://github.com/user-attachments/assets/4b78b894-333d-4366-a984-41a28a2e4491)
